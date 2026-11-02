@@ -1,0 +1,19 @@
+{
+  "name": "Yakıt - Kalori ve Makro Takibi",
+  "short_name": "Yakıt",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1019",
+  "theme_color": "#0b1019",
+  "lang": "tr",
+  "description": "Ücretsiz, çevrimdışı, fotoğraflı kalori ve makro takibi.",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
